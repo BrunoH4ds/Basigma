@@ -6,7 +6,7 @@ Este Codigo foi feito para fins educacionais porem ele continuara sendo aprimora
 
 Para utilizar esse codigo quando executalo em algum editor de codigo fonte basta apenas digitar **6550126 mmr** e aparecera Feliz 2018
 
-# Objetivos
+# Objetivos Futuros
 
 - Adaptar para um arquivo .exe
 - Melhorar a UI
