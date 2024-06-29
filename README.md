@@ -1,2 +1,3 @@
 # Basigma
-Este e um codigo pedido por um professor afim de ensinar a usar o dicionario.
+
+Este Codigo foi feito para fins educacionais porem ele continuara sendo aprimorado de acordo com minha vontade Obrigado!!!
