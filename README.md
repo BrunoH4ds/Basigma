@@ -9,5 +9,5 @@ Para utilizar esse codigo quando executalo em algum editor de codigo fonte basta
 # Objetivos Futuros
 
 - Adaptar para um arquivo .exe
-- Melhorar a UI
+- ~~Melhorar a UI~~
 - Tornar o codigo mais util
