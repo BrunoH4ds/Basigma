@@ -6,7 +6,7 @@ Este Codigo foi feito para fins educacionais porem ele continuara sendo aprimora
 
 baixe o arquivo .zip depois descompacte o arquivo .zip e rode o main.py 
  
-basta apenas executalo em algum programa de edicao e criacao de codigo Como o Visual Studio Code,Replit entre outros
+basta apenas executalo em algum programa de edicao e criacao de codigo Como o Visual Studio Code,Replit,Python entre outros
 
 Agora com a atualizacao 1.2.0 trouxemos uma descriptografia e criptografia mais ampliada ao inves de apenas feliz 2018 agora voce pode montar frases completas e ate mesmo textos e ainda por cima personalizar o vocabulario do seu jeito alterando apenas a lista de palavras exemplo: eu quero que para ele descriptografar o A seja 02 basta apenas eu acessar o arquivo data.py e remover o 01 para 02 e pronto so rodar o codigo novamente.lembrando nao coloque letras repetidas e nao coloque letras ou numeros que podem confundir a maquina exemplo quero que o A do descript seja M e o B seja MM quando voce precisar usar dois A ele vai confundir com o B
 
@@ -87,10 +87,6 @@ abaixo segue a tabela de cada caracter e suas respectivas palavras:
 '8'= 'h',
 '9'= 'i',
 '0': 'j',
-
-# Possiveis Erros na execucao
-
-dependendo de como voce extrair e qual extrator de arquivos voce usar ele pode criar uma pasta duplicada e caso isso aconteca ele nao vai rodar o codigo por nao encontrar o caminho entao pegue a pasta com os arquivos e arraste para fora da pasta duplicada e tente rodar novamente que deve dar certo.
 
 # Objetivos Futuros
 
